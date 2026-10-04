@@ -7,8 +7,8 @@
 
 ## Installation
 ```bash
-git clone [https://github.com](https://github.com/DevByBrandonAR/MyAstrologyTool.git)
-cd your-repo-name
+git clone https://github.com/DevByBrandonAR/MyAstrologyTool.git
+cd MyAstrologyTool
 python -m venv venv
 source venv/bin/activate  # On Windows: .\venv\Scripts\activate
 pip install .
