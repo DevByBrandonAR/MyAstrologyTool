@@ -1,3 +1,4 @@
+[project]
 name = "MyAstrologyTool"
 version = "0.1.0b1"
 description = "plotting a natal astrology chart and more, given user input. Ongoing"
