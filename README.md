@@ -1,6 +1,5 @@
 # MyAstrologyTool
 
-![Status: Beta](https://shields.io)
 
 > ⚠️ **Development Status: Beta**  
 > This project is currently in active beta. The core structures are stable, but specific calculation logic and available features are in flux. Basically you can enter latitude and longitude, birth time and date, and timezone, and get a chart. This leverages several libraries to get this astronomical information into a usable arrangement.
