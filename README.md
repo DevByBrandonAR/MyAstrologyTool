@@ -9,9 +9,9 @@
 ```bash
 git clone https://github.com/DevByBrandonAR/MyAstrologyTool.git
 cd MyAstrologyTool
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate  # On Windows: .\venv\Scripts\activate
-pip install .
+python3 -m pip install .
 ```
 
 ### Sample Plot Output
