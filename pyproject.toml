@@ -4,7 +4,7 @@ version = "0.1.0b1"
 description = "plotting a natal astrology chart and more, given user input. Ongoing"
 readme = "README.md" 
 requires-python = ">=3.13"
-dependences = [
+dependencies = [
 
 "astral>=3.2",
 "contourpy>=1.4.0",
